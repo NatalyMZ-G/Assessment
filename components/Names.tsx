@@ -16,7 +16,7 @@ function Names({isBig}:NamesTypes) {
     style={{
         fontSize: isBig? '70px' : '50px'
     }}
-    >Karen & Daniel</h1>
+    >William & Jimalli</h1>
   )
 }
 

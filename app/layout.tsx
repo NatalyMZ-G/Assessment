@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Wedding | Karen & Daniel",
+  title: "Wedding | Jimalli & William",
   description: "Here You could see the invitation to our wedding, and share with us all the amazing photos that you will take during the civil and church ceremonie.",
 };
 

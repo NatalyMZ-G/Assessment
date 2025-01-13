@@ -77,8 +77,18 @@ p, h3, a {
 }
 
 
+.main-navigation {
+  background-color: rgb(175, 216, 240);
+  list-style: none;
+  font-family: quicksand;
+  padding: 8px 0;
+}
 
-
+.main-navigation-item:hover {
+font-weight: bold;
+transition: all;
+animation-duration: 0.5s;
+}
 
 
 @media (prefers-color-scheme: dark) {

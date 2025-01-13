@@ -43,7 +43,7 @@ function Thanks() {
 <Spacer />
 <Spacer />
 
-<TextCustom dark text='Karen & Daniel '/>
+<TextCustom dark text='Jimalli & William '/>
 
 <div style={{
   position: 'relative',
