@@ -65,7 +65,7 @@ const [itemToShow, setItemToShow] = useState(menuItems[0])
    </div>
    <button style={{
      position: 'absolute',
-     top:'15px',
+     top:'45px',
      left: '15px',
      padding: '10px',
      margin: '0 2px',
